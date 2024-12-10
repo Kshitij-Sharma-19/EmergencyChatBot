@@ -1,0 +1,93 @@
+#chat-container {
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adjusted for better spacing */
+    font-family: Arial, sans-serif; /* Clean font */
+    background-color: #f9f9f9; /* Light background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px; /* Padding for spacing */
+}
+
+#chat-box {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Rounded corners */
+    overflow-y: auto; /* Scrollable area */
+    padding: 10px;
+    background-color: #fff; /* White background for chat */
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); /* Inner shadow */
+}
+
+#user-input-container {
+    display: flex; /* Flex layout for input and buttons */
+    width: 100%;
+    align-items: center; /* Center items vertically */
+}
+
+#user-input {
+    flex: 1; /* Allow input to grow */
+    padding: 10px; /* Padding for input */
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Rounded corners */
+    transition: border 0.3s; /* Smooth transition for border */
+}
+
+#user-input:focus {
+    outline: none; /* Remove default outline */
+    border-color: #007BFF; /* Focus border color */
+}
+
+button {
+    padding: 10px; /* Increased padding */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #007BFF; /* Primary button color */
+    color: white; /* White text */
+    font-weight: bold; /* Bold text */
+    cursor: pointer; /* Pointer cursor */
+    transition: background-color 0.3s; /* Transition for background */
+    margin-left: 10px; /* Space between buttons */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+button:disabled {
+    background-color: #ccc; /* Disabled button color */
+    cursor: not-allowed; /* Not-allowed cursor */
+    color: #666; /* Gray text for disabled button */
+}
+
+input[type="file"] {
+    display: none; /* Hide default file input */
+}
+
+#attach-file-button{
+   
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    border-radius: 5px; /* Rounded corners */
+}
+
+#attach-file-button img {
+   height: 1em;
+   margin-bottom: 0;
+}
+
+label:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "trigger": "fire emergency",
+        "response": "In case of a fire, evacuate the building immediately and call emergency services at 101."
+    },
+    {
+        "trigger": "medical emergency",
+        "response": "For a medical emergency, please contact emergency services at 108 and apply first aid if trained."
+    },
+    {
+        "trigger": "road accident",
+        "response": "In case of a road accident, ensure safety first, call emergency services at 108, and provide first aid if trained."
+    },
+    {
+        "trigger": "earthquake",
+        "response": "During an earthquake, drop, cover, and hold on. After the tremors, evacuate the building and call for help if needed."
+    },
+    {
+        "trigger": "flood emergency",
+        "response": "In case of a flood, move to higher ground and avoid walking or driving through floodwaters. Contact emergency services at 1077."
+    },
+    {
+        "trigger": "chemical spill",
+        "response": "If there is a chemical spill, evacuate the area immediately and call emergency services at 101 for hazardous material assistance."
+    },
+    {
+        "trigger": "bomb threat",
+        "response": "In case of a bomb threat, evacuate the area, do not touch any suspicious items, and call the police at 100."
+    },
+    {
+        "trigger": "hostage situation",
+        "response": "In a hostage situation, remain calm, try to get to safety, and call emergency services at 100."
+    },
+    {
+        "trigger": "shooting incident",
+        "response": "If you are in a shooting incident, find a safe place to hide and call emergency services at 100."
+    },
+    {
+        "trigger": "terror attack",
+        "response": "In case of a terrorist attack, find a safe location, evacuate if possible, and call emergency services at 100."
+    },
+    {
+        "trigger": "lost child",
+        "response": "If you have lost a child, alert security personnel and contact local police at 100."
+    },
+    {
+        "trigger": "sick person",
+        "response": "If someone is sick and needs immediate help, call emergency services at 108 and provide first aid if you are trained."
+    },
+    {
+        "trigger": "domestic violence",
+        "response": "If you or someone you know is facing domestic violence, please contact the police at 100 or a local helpline."
+    },
+    {
+        "trigger": "suicidal thoughts",
+        "response": "If you or someone you know is having suicidal thoughts, please contact a mental health professional or a helpline immediately."
+    },
+    {
+        "trigger": "injury",
+        "response": "For any injury, apply first aid and call emergency services at 108 for further assistance."
+    },
+    {
+        "trigger": "animal attack",
+        "response": "In case of an animal attack, seek safety immediately and contact emergency services at 100."
+    },
+    {
+        "trigger": "building collapse",
+        "response": "If a building has collapsed, evacuate the area and call emergency services at 101 for rescue assistance."
+    },
+    {
+        "trigger": "gas leak",
+        "response": "In case of a gas leak, evacuate the area immediately, avoid using any electrical appliances, and call emergency services at 101."
+    },
+    {
+        "trigger": "road blockage",
+        "response": "If there is a road blockage, find an alternative route and inform local authorities by calling 100."
+    },
+    {
+        "trigger": "child abuse",
+        "response": "If you suspect child abuse, report it to local authorities or child protection services immediately."
+    },
+    {
+        "trigger": "sexual assault",
+        "response": "If you are a victim of sexual assault, seek safety, contact the police at 100, and get medical help."
+    },
+    {
+        "trigger": "missing person",
+        "response": "If someone is missing, report it to the police at 100 and provide them with all necessary information."
+    },
+    {
+        "trigger": "public disturbance",
+        "response": "If there is a public disturbance, contact the police at 100 to report the situation."
+    },
+    {
+        "trigger": "emotional distress",
+        "response": "If you or someone is in emotional distress, please reach out to a mental health professional or helpline."
+    },
+    {
+        "trigger": "natural disaster",
+        "response": "During a natural disaster, stay informed through local news and follow emergency instructions."
+    },
+    {
+        "trigger": "fire alarm",
+        "response": "If the fire alarm goes off, evacuate the building immediately and call emergency services at 101."
+    },
+    {
+        "trigger": "unsafe situation",
+        "response": "If you find yourself in an unsafe situation, seek help from nearby authorities and contact the police at 100."
+    },
+    {
+        "trigger": "suspicious package",
+        "response": "If you see a suspicious package, do not touch it, evacuate the area, and call the police at 100."
+    },
+    {
+        "trigger": "traffic accident",
+        "response": "In case of a traffic accident, ensure safety, call emergency services at 108, and provide first aid if needed."
+    },
+    {
+        "trigger": "overdose",
+        "response": "If someone has overdosed, call emergency services at 108 and provide first aid if trained."
+    },
+    {
+        "trigger": "power outage",
+        "response": "In case of a power outage, ensure safety and check for updates from local authorities."
+    },
+    {
+        "trigger": "severe weather",
+        "response": "During severe weather, stay indoors, monitor updates, and follow local emergency instructions."
+    },
+    {
+        "trigger": "bomb scare",
+        "response": "In case of a bomb scare, evacuate the area immediately and contact the police at 100."
+    },
+    {
+        "trigger": "suspicious behavior",
+        "response": "If you notice suspicious behavior, report it to local authorities by calling 100."
+    },
+    {
+        "trigger": "building fire",
+        "response": "In case of a building fire, use the nearest exit to evacuate and call emergency services at 101."
+    },
+    {
+        "trigger": "helicopter rescue",
+        "response": "If you require a helicopter rescue, call emergency services at 101 and provide your location."
+    },
+    {
+        "trigger": "roadside assistance",
+        "response": "For roadside assistance, contact a towing service or call local emergency services at 108."
+    },
+    {
+        "trigger": "community emergency",
+        "response": "In a community emergency, stay informed through local news and follow emergency guidelines."
+    },
+    {
+        "trigger": "cpr",
+        "response": "If someone needs CPR, call emergency services at 108 immediately and start CPR if trained."
+    },
+    {
+        "trigger": "heat stroke",
+        "response": "In case of heat stroke, move the person to a cooler place, hydrate them, and call emergency services at 108."
+    },
+    {
+        "trigger": "hypothermia",
+        "response": "For hypothermia, warm the person gradually, provide dry clothing, and call emergency services at 108."
+    },
+    {
+        "trigger": "choking",
+        "response": "If someone is choking, perform the Heimlich maneuver and call emergency services at 108 if they can't breathe."
+    },
+    {
+        "trigger": "allergic reaction",
+        "response": "For an allergic reaction, administer an EpiPen if available, and call emergency services at 108."
+    },
+    {
+        "trigger": "stroke symptoms",
+        "response": "If someone shows stroke symptoms, call emergency services at 108 immediately and note the time of symptoms."
+    },
+    {
+        "trigger":null ,
+        "response": "Please enter something."
+    }
+]
